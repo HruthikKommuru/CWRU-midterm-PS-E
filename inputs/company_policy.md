@@ -7,3 +7,5 @@ Customer hotline: 1-800-555-0119, daily 8 AM to 8 PM Eastern. Store teams keep a
 ## Directory administration
 
 The April 1 store directory lists current trading sites. S13, Harbor Annex, 13 Harbor Lane, Northbridge, Ohio 44000, ceased trading March 31, 2027. Its remaining stock was sent to the central warehouse at closure. Its historical sales remain in the transaction archive. The other 12 locations remain open.
+
+Closed-store records: CareWell HQ Records, 1-800-555-0150, records@carewell.example.
